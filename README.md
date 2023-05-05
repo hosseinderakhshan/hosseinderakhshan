@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hossein Derakhshan</h1>
-<h3 align="center">A Am Ui And Ux Desinger From Iran</h3>
+<h3 align="center">A Am Ui And Ux Desinger & full stack developer From Iran</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hosseinderakh18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hosseinderakh18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hossein-derakhshan-86405a1b3" target="blank"><img style="color: #fff;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hossein-derakhshan-86405a1b3" height="30" width="40" /></a>
-<a href="https://instagram.com/hossein_derrakhshan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hossein_derrakhshan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucyejtrmr88e-xigflszt0oa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucyejtrmr88e-xigflszt0oa" height="30" width="40" /></a>
+  <a href="https://twitter.com/hseidr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hosseinderakh18" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/drgraphic/" target="blank"><img style="color: #fff;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hossein-derakhshan-86405a1b3" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/drgraphic_net/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hossein_derrakhshan" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCyeJTrmR88E-XIGFlszT0oA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucyejtrmr88e-xigflszt0oa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
